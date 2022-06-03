@@ -34,6 +34,7 @@
                         <li class="nav-item"><a class="nav-link" href="#about">Sobre nós</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Nosso time</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
+                      <li class="nav-item"><a class="nav-link" a href="cadastroUsuario/index.php">login</a></li>
                     </ul>
                 </div>
             </div>
